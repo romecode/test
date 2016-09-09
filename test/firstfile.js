@@ -7,3 +7,6 @@ function two(){
 function two(){
 	console.log('entirely new shit');
 }
+function two(){
+	console.log('entirely new new shit');
+}
