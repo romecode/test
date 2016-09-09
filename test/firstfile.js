@@ -2,5 +2,5 @@ function one(){
 	console.log('this is the original created function');
 }
 function two(){
-	console.log('this is something i added');
+	console.log('but this is something I changed on another ws');
 }
